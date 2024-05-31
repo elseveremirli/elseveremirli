@@ -12,7 +12,7 @@
 </div>
 
 
-- 🔭 I’m currently working on [HRMS-Human-Resources-Management-System](https://github.com/elseveremirli/HRMS-Human-Resources-Management-System.git)
+- 🔭 I’m currently working on [Exam App](https://github.com/elseveremirli/exam-app/tree/server)
 
 - 🌱 I’m currently learning **Spring Boot**
 
